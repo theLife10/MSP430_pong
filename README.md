@@ -1,4 +1,4 @@
 # msp-430_Pong
 
-#Video
+#Check out my demo
 https://youtu.be/xz2HwCPlIRE
