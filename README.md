@@ -1,4 +1,4 @@
-# msp-430_Pong
+# Ping Pong
 
-<h1>Video of MSP-430 Pong Game in action<h1/>
+<h1>Ping Pong on a Microcontroller<h1/>
 <h3> https://youtu.be/xz2HwCPlIRE <h/>
